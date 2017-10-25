@@ -114,23 +114,27 @@ Developers start by cloning the central repository. In their own local copies of
 
 - Used to record the history of the branch
 
-  ![img](http://img.blog.csdn.net/20131227204709984?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGFwcHlkZWVy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
-  ![img](http://img.blog.csdn.net/20131227204656906?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGFwcHlkZWVy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+  ![img](https://github.com/fengerhu1/Markdown/blob/master/1.png?raw=true)
 
   ​
 
 - Used for functional development of the branch
 
-  ![img](http://img.blog.csdn.net/20131227204656906?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGFwcHlkZWVy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+  ![img](https://github.com/fengerhu1/Markdown/blob/master/2.png?raw=true)
+
+  ​
 
 - **Used to distribute the branch**
 
-  ![img](http://img.blog.csdn.net/20131227204749484?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGFwcHlkZWVy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+  ![img](https://github.com/fengerhu1/Markdown/blob/master/3.png?raw=true)
+
+  ​
 
 - **The branch used for maintenance**
 
-  ![img](http://img.blog.csdn.net/20131227204826703?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvaGFwcHlkZWVy/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+  ![img](https://github.com/fengerhu1/Markdown/blob/master/4.png?raw=true)
+
+  ​
 
   ​
 
